@@ -28,7 +28,6 @@ Currently exploring **Android Development**, **C++**, **Next.js**, and **AI-powe
 
 ## 🔗 Connect with Me
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/AtKh2VwF)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bytegarden)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeeestore35@gmail.com)  
 ---
 
