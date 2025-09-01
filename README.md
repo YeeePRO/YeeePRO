@@ -13,13 +13,6 @@ Currently exploring **Android Development**, **C++**, **Next.js**, and **AI-powe
 - 💡 Love combining **AI** with **mobile apps** for smarter user experiences  
 - 🎯 Goal: turn small seeds (ideas) into big creations 🌳  
 
----
-
-## 📊 GitHub Stats
-![YeeePRO GitHub stats](https://github-readme-stats.vercel.app/api?username=YeeePRO-X&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeeePRO-X&layout=compact&theme=tokyonight)
-
----
 
 ## 🧰 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
